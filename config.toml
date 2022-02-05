@@ -1,0 +1,15 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-gb'
+title = 'Testing testing'
+theme = "hermit"
+
+[author]
+  name = "Sam Briggs"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  homeSubtitle = "A minimal and fast theme for Hugo."
