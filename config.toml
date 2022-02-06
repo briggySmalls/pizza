@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://pippyjames.pizza/'
 languageCode = 'en-gb'
-title = 'Testing testing'
+title = 'Pippy James'
 theme = "hermit"
 
 [author]
@@ -12,4 +12,4 @@ theme = "hermit"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
-  homeSubtitle = "A minimal and fast theme for Hugo."
+  homeSubtitle = "Taking over the world, one marinara at a time 🍕"
